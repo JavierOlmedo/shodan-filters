@@ -1,3 +1,19 @@
+<p align="center">
+    <a href="https://blog.shodan.io/content/images/2015/02/shodan-logo-black.png">
+      <img src="https://blog.shodan.io/content/images/2015/02/shodan-logo-black.png" width="150">
+    </a>
+    <h3 align="center">SHODAN Filters</h3>
+    <p align="center">Compilation of SHODAN Filters</p>
+</p>
+<p align="center">
+    <b>
+        <a href="https://twitter.com/jjavierolmedo">🔗 Javier Olmedo</a>
+        &nbsp;|&nbsp;
+        <a href="https://hackpuntes.com">HACKPUNTES 🌐</a>
+  </b>  
+</p>
+<h2></h2>
+
 # List of Shodan Filters
 ## General Filters
 | **Name**           | **Description**                                                                                                                                                                                                            | **Type** |
