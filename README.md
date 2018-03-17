@@ -1,9 +1,8 @@
 <p align="center">
     <a href="https://blog.shodan.io/content/images/2015/02/shodan-logo-black.png">
-      <img src="https://blog.shodan.io/content/images/2015/02/shodan-logo-black.png" width="150">
+      <img src="https://blog.shodan.io/content/images/2015/02/shodan-logo-black.png" width="250">
     </a>
-    <h3 align="center">SHODAN Filters</h3>
-    <p align="center">Compilation of SHODAN Filters</p>
+    <h3 align="center">Compilation of SHODAN Filters</h3>
 </p>
 <p align="center">
     <b>
