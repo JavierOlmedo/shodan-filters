@@ -65,7 +65,7 @@
 | **ssl**                  | Search all SSL data                                   | string           |
 | **ssl.alpn**             | Application layer protocols such as HTTP/2 ("h2")     | string           |
 | **ssl.chain_count**      | Number of certificates in the chain                   | integer          |
-| **ssl.version**          | Possible values: SSLv2, SSLv3, TLSv1,TLSv1.1, TLSv1.2 | string           |
+| **ssl.version**          | Possible values: sslv2, sslv3, tlsv1,tlsv1.1, tlsv1.2 | string           |
 | **ssl.cert.alg**         | Certificate algorithm                                 | string           |
 | **ssl.cert.expired**     | True / False                                          | boolean          |
 | **ssl.cert.extension**   | vNames of extensions in the certificate               | string           |
